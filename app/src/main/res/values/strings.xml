@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CPF</string>
+    <string name="titulo">SISTEMA DE CADASTRO PESSOA FISICA</string>
+    <string name="autor">by Henrique Kölle Portella</string>
+    <string name="versao">versão 1.0.0</string>
+
+    <!--Cadastro Pessoa-->
+    <string name="nome">nome completo</string>
+    <string name="cpf">CPF</string>
+    <string name="idade">sua idade</string>
+    <string name="telefone">numero telefone</string>
+    <string name="email">E-mail</string>
+
+    <!--Menu Cadastro-->
+    <string name="menuSalvar">Salvar</string>
+    <string name="menuListar">ListarPessoas</string>
+
+    <!--Menu Lista-->
+    <string name="menuBuscar">Buscar por nome</string>
+
+    <!--Lista de Pessoas-->
+    <string name="excluir">Click no item para excluir.</string>
+
+
+</resources>
